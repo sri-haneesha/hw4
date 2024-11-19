@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684307438586",
+    "project_id": "tvchatapp-3ba43",
+    "storage_bucket": "tvchatapp-3ba43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684307438586:android:75626548a14ed89dd4a243",
+        "android_client_info": {
+          "package_name": "com.example.hw4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684307438586-a7ra518l6vor9tvqoa0oorus3pn1qb54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT9macr87aIVAdURxbsS3qecia2HRdS8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684307438586-a7ra518l6vor9tvqoa0oorus3pn1qb54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
